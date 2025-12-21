@@ -4,6 +4,9 @@
 [![Last Commit](https://img.shields.io/github/last-commit/sirspyr0/echo-public)](https://github.com/sirspyr0/echo-public/commits)
 
 Continuity-first desktop assistant.
+Stable voice, structured growth.
+
+---
 
 Public documentation for Echo. This repo hosts progress and growth signals only (no private app code). Echo is a continuity-first desktop assistant that maintains a stable voice and learns through structured context.
 
