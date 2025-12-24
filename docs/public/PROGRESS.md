@@ -32,7 +32,7 @@ Echo is a continuity-first desktop assistant that grows through structured conte
 - Propagate sampling knobs (ECHO_TEMP / ECHO_TOP_P) to LM Studio calls.
 - Continue Phase 2: richer opinion surfacing in UI and proactive nudges.
 - Collect higher-quality programmes and curate a gold set for fine-tuning.
- 
+
 
 ## How to Try (Public Repo)
 - Repo: https://github.com/sirspyr0/echo-public

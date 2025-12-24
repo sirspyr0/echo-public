@@ -1,0 +1,49 @@
+# Code Owners for Echo-OS
+# This file defines who should review changes to specific parts of the codebase.
+# GitHub automatically requests reviews from code owners when PRs modify these files.
+
+# Syntax: path/to/files @username
+
+# All code and documentation - primary maintainer
+* @sirspyr0
+
+# Kernel-level code (future Phase 3)
+kernel/** @sirspyr0
+
+# AI/ML training and LoRA weights
+ai/** @sirspyr0
+programmes.jsonl @sirspyr0
+lora/** @sirspyr0
+
+# Inference engine and model integration
+inference/** @sirspyr0
+mistral_integration/** @sirspyr0
+llama_cpp/** @sirspyr0
+
+# Relationship logging and semantic retrieval
+relationship_log/ @sirspyr0
+oracle.db @sirspyr0
+knowledge_base/ @sirspyr0
+
+# Electron app and UI
+src/** @sirspyr0
+main.js @sirspyr0
+preload.js @sirspyr0
+
+# Documentation and community guidelines
+*.md @sirspyr0
+CONTRIBUTING.md @sirspyr0
+LICENSE.md @sirspyr0
+SECURITY.md @sirspyr0
+
+# Licensing and IP
+LICENSE.md @sirspyr0
+TRADEMARK.md @sirspyr0
+
+# Configuration files
+package.json @sirspyr0
+tsconfig.json @sirspyr0
+.env* @sirspyr0
+
+# CI/CD and automation
+.github/** @sirspyr0
