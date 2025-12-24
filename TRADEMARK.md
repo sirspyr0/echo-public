@@ -6,9 +6,9 @@ The "Echo-OS" name and logo represent a vision of AI-native computing built on p
 
 ## Trademark Status
 
-**Trademark:** "Echo-OS"  
-**Owner:** Leondas Paul, III (sirspyr0)  
-**Jurisdiction:** United States (pending registration)  
+**Trademark:** "Echo-OS"
+**Owner:** Leondas Paul, III (sirspyr0)
+**Jurisdiction:** United States (pending registration)
 **Usage Rights:** See below
 
 ---
@@ -169,10 +169,10 @@ Until formal registration, we rely on:
 
 Echo-OS encourages academic research. You may:
 
-✅ Use Echo-OS in research without asking  
-✅ Publish papers describing Echo-OS  
-✅ Reference the name in citations  
-✅ Create modified versions for experiments  
+✅ Use Echo-OS in research without asking
+✅ Publish papers describing Echo-OS
+✅ Reference the name in citations
+✅ Create modified versions for experiments
 
 Please include a citation:
 ```bibtex
@@ -188,19 +188,19 @@ Please include a citation:
 
 ## FAQ
 
-**Q: Can I use "Echo" as a company name?**  
+**Q: Can I use "Echo" as a company name?**
 A: Probably yes—"Echo" alone is generic. "Echo-OS" or "Echo AI Operating System" would conflict.
 
-**Q: Can I create "Echo-OS for Windows"?**  
+**Q: Can I create "Echo-OS for Windows"?**
 A: Yes, but call it something like "Echo-Core for Windows" to differentiate. "Echo-OS" specifically refers to the Linux-based vision.
 
-**Q: Can I fork Echo-OS and call it Echo-OS v2?**  
+**Q: Can I fork Echo-OS and call it Echo-OS v2?**
 A: No. Call it "MyProject, an Echo-OS fork" or choose a new name. "Echo-OS vX" implies continuity with the original.
 
-**Q: What if I disagree with this policy?**  
+**Q: What if I disagree with this policy?**
 A: Contact sirspyr0@github.com and we can discuss. Most reasonable use cases are permitted with clear labeling.
 
-**Q: Can I trademark "Echo-OS" myself?**  
+**Q: Can I trademark "Echo-OS" myself?**
 A: No. We have common law rights and are pursuing federal registration. Attempting to register would likely be challenged and rejected.
 
 ---
@@ -209,14 +209,14 @@ A: No. We have common law rights and are pursuing federal registration. Attempti
 
 This trademark policy may evolve as Echo-OS grows. We'll announce major changes in the GitHub announcements section.
 
-**Questions?**  
+**Questions?**
 - GitHub Discussions: https://github.com/sirspyr0/echo/discussions
 - Email: sirspyr0@github.com
 
 ---
 
-**Policy Version:** 1.0  
-**Last Updated:** December 22, 2025  
+**Policy Version:** 1.0
+**Last Updated:** December 22, 2025
 **Effective Date:** December 22, 2025
 
 ---

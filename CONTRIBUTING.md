@@ -49,7 +49,7 @@ pip install -r requirements.txt # For Python components
 5. **Commit with clear messages:**
    ```
    Fix: Brief description of change
-   
+
    - Bullet point about implementation
    - Another implementation detail
    - Related issue: #123
